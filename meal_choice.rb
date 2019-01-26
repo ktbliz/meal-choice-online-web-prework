@@ -3,4 +3,5 @@
 
 def meal_choice(selection = "meat")
   puts selection
+  return selection
 end
